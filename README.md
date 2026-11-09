@@ -11,7 +11,7 @@ its source code and datasets are distributed through an access
 request process to reduce the risk of misuse.
 
 To request access, please complete the
-[Google Form](YOUR_GOOGLE_FORM_URL) and confirm that the provided
+[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe6Kj8x24FRqcxdg9Ec28bjV5jBtfTGoR1sBW8sWAtHkKOPEA/viewform?usp=publish-editor) and confirm that the provided
 materials will be used exclusively for academic research.
 Requests will be reviewed manually before access is granted.
 
