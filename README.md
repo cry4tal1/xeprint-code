@@ -15,7 +15,3 @@ To request access, please complete the
 materials will be used exclusively for academic research.
 Requests will be reviewed manually before access is granted.
 
-The target-known implementation from our earlier conference
-version is available at
-[the conference repository](https://github.com/xeprint/xeprint_project).
-The two versions use different datasets.
